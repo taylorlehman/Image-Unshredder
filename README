@@ -1,0 +1,4 @@
+There are two files in this respository:
+
+- ishred.py: This resconstructs a shredded image
+- shredder.py: This takes a regular image and shreds it
